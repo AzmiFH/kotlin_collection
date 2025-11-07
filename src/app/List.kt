@@ -12,4 +12,5 @@ fun main(){
     println(list.contains("azmi"))
     //empety cek apakah data kosong atau tidak
     println(list.isEmpty())
+    println(list.isNotEmpty())
 }
